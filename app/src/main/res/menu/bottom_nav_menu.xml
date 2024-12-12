@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/profile"
+        android:icon="@drawable/iconperson"
+        android:title="Profile" />
+    />
+    <item
+        android:id = "@+id/transaction"
+        android:icon="@drawable/iconcard"
+        android:title="Transaction" />
+    <item
+        android:id = "@+id/homemain"
+        android:icon="@drawable/iconhome"
+        android:title="Home" />
+    <item
+        android:id = "@+id/buget"
+        android:icon="@drawable/iconbuget"
+        android:title="Buget" />
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/iconadd"
+        android:title="Add"
+        />
+</menu>
